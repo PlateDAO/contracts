@@ -4,6 +4,15 @@
 
 #### Deployment Sequence
 
+##### In BSC Testnet: 
+1. TIME.sol - 0x24b4952EDAEA40F6c358588e5fC2547792EDe395 (pragma 0.7.5, verified, 21/01/2022) 
+2. MIM.sol - 0xccb19056a09684dC7E74e0c480d3Fc304D1C8C28 (pragma 0.6.12, verified, 22/01/2022) 
+3. Treasury - 0x0257a42018d99F993A0b6f1F374B1b92093B5F4c (pragma 0.7.5, verified, 22/01/2022)
+4. MIM TimeBondDepository.sol - 0x04d631c7A14E93E5975F40085AD2129B0Af0c173 (pragma 0.7.5, verified, 22/01/2022)
+5. MemoriesERC20.sol - 0x8625dEC5400A660594d3446750Df64146C702c35 (pragma 0.7.5, verified, 08/01/2022)  
+6. TimeStaking.sol - 0x701ff86BE99Ea80580699c109AAE599Ccc94b3ba (pragma 0.7.5, verified, 22/01/2022)
+7. StakingHelper.sol - 0xce225A40105375dAd8648d61CEa0974E4c6Cc90c (pragma 0.7.5, verified, 08,01/2022)
+
 ##### In FTM Testnet: https://testnet.ftmscan.com/  
 1. TIME.sol - 0x4C266b930602A292C8B3990CA9230F1c072abE51 (pragma 0.7.5, verified, 08/01/2022) 
 2. MIM.sol - 0x7E843fFf711f2F816FFF25F655204f7160C60608 (pragma 0.6.12, verified, 08/01/2022)
