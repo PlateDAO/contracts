@@ -12,7 +12,7 @@
 5. MemoriesERC20.sol - 0x8625dEC5400A660594d3446750Df64146C702c35 (pragma 0.7.5, verified, 08/01/2022)  
 6. TimeStaking.sol - 0x701ff86BE99Ea80580699c109AAE599Ccc94b3ba (pragma 0.7.5, verified, 22/01/2022)
 7. StakingHelper.sol - 0xce225A40105375dAd8648d61CEa0974E4c6Cc90c (pragma 0.7.5, verified, 08,01/2022)
-
+8. StandardBondingCalculator.sol - 0xC4Def110d673067d69F3A6673fBC7e4ef6697ef9 (pragma 0.7.5, verified, 18,03/2022)
 ##### In FTM Testnet: https://testnet.ftmscan.com/  
 1. TIME.sol - 0x4C266b930602A292C8B3990CA9230F1c072abE51 (pragma 0.7.5, verified, 08/01/2022) 
 2. MIM.sol - 0x7E843fFf711f2F816FFF25F655204f7160C60608 (pragma 0.6.12, verified, 08/01/2022)
